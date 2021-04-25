@@ -2160,7 +2160,7 @@ ul.actions li:first-child {
   width: 100%;
   z-index: 10000;
   cursor: default;
-  height: 3.5em;
+  height: 4em;
   line-height: 3.5em;
 }
 
@@ -2630,7 +2630,7 @@ div.full figure:not(.expanded) {
 h4 {
   position: left;
   color: #f73962;
-  padding-left: 350px;
+  padding-left: 170px;
   font-family: 'Lucida Console';
 }
 h4:before {
