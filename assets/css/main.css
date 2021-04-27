@@ -168,7 +168,7 @@ html {
 }
 
 body {
-  padding-top: 3.5em;
+  padding-top: 0;
 }
 
 body.is-preload *,
