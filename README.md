@@ -10,15 +10,18 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 ## 🛠️ Skills
 
 **Languages:** Python, JAVA, JavaScript.
+
 **Backend & APIs:** REST, Microservices, gRPC, Spring Boot, Flask 
+
 **Cloud:** AWS
+
 **Data & Storage:** DynamoDB (GSIs), Cassandra, Redis, Solr
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sruthisathyamoorthy&show_icons=true&theme=radical)
+![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SruthiSathya&show_icons=true&theme=radical) 
 
 ---
 
