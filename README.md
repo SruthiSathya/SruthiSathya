@@ -17,14 +17,3 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 
 **Data & Storage:** DynamoDB (GSIs), Cassandra, Redis, Solr
 
----
-
-## 📈 GitHub Stats
-
-![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SruthiSathya&show_icons=true&theme=radical) 
-
----
-
-## 💬 Connect with me
-
-- LinkedIn: [sruthi-sathyamoorthy](https://www.linkedin.com/in/sruthisathyamoorthy/)   
