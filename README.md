@@ -9,11 +9,15 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 
 ## 🛠️ Skills
 
-**Languages:** Python, JAVA, JavaScript.
+**Languages:** Python, JAVA, Bash.
 
-**Backend & APIs:** REST, Microservices, gRPC, Spring Boot, Flask 
+**Backend & APIs:** REST APIs, Microservices, gRPC, Spring Boot, Flask, NestJS, Event-driven Architecture
 
-**Cloud:** AWS
+**Cloud & Infrastructure:** Amazon Web Services (AWS), AWS Fargate, AWS Lambda, DynamoDB, Docker, Kubernetes, Helm
 
-**Data & Storage:** DynamoDB (GSIs), Cassandra, Redis, Solr
+**Streaming & Data:** Apache Kafka, Redis, Cassandra, Solr, Elasticsearch
+
+**Observability & DevOps:** OpenTelemetry, Prometheus, Grafana, Jaeger, ELK Stack, CI/CD
+
+**AI / ML Infrastructure:** Vector Search, Semantic Search, FAISS, Embeddings
 
